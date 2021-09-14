@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python packages
+Home-page: https://github.com/<sjtsi>/
+Author: <Joas Tsiri>
+Author-email: <sjtsiri@yahoo.com>
+License: MIT
+Description: open(README.md).read()
+Platform: UNKNOWN
